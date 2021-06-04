@@ -1,0 +1,7 @@
+1. Make sure scipy is pre-installed using pip3 install scipy 
+2. Import pandas library in code. (Make sure pandas is pre-installed using pip3 install pandas earlier) 
+3. Import the plotly.figure_factory (Make sure plotly is pre-installed using pip3 install plotly ) 
+4. Write code to read the csv data using pandas 6. create the distribution plot graph figure using plotly.figure_factory 
+a) Pass the Avg rating of the brands as first parameter 
+b) Also pass the second parameter as the name (Note : This parameter denotes the name of the bell-curve which we plotted)
+ c) Store the output in variable and using show ( ) method plot the graph
